@@ -1,0 +1,252 @@
+sections,Title,description,Punishment
+1,Title and extent,Title and territorial extent of IPC.,No punishment.
+2,Punishment under IPC,Punishment for offenses under IPC.,As prescribed in IPC for respective crimes.
+3,Punishment of offenses outside India,Punishment for crimes committed outside India.,Same as if committed within India.
+4,Extension to extra-territorial offenses,Applies to offenses by Indian citizens abroad.,Same as if committed in India.
+5,Exclusion of special laws,IPC does not override special or local laws.,No punishment.
+6,Definition of offense,Acts defined as offenses under IPC.,No punishment.
+7,Sense of expression once explained,Interpretation of terms used in IPC.,No punishment.
+8,Gender definition,'He' includes 'She' unless stated otherwise.,No punishment.
+9,Number definition,Singular includes plural and vice versa.,No punishment.
+10,Man and Woman,Definition of 'Man' and 'Woman' in IPC.,No punishment.
+11,Person definition,Includes companies;associations , etc'No punishment.
+12,Public definition,Refers to the general population.,No punishment.
+13,Queen definition,Omitted after India became a republic.,No punishment.
+14,Servant of Government,Definition of public servants.,No punishment.
+15,British India definition,Omitted after independence.,No punishment.
+16,Definition of Government,Definition of Central and State Government.,No punishment.
+17,Definition of Government of India,Definition of Indian Government.,No punishment.
+18,Definition of India,Territory of India.,No punishment.
+19,Definition of Judge,Definition of Judge under IPC.,No punishment.
+20,Definition of Court of Justice,Definition of Court under IPC.,No punishment.
+21,Definition of Public Servant,Who is considered a public servant.,No punishment.
+22,Movable Property,Definition of movable property.,No punishment.
+23,Wrongful gain,Gaining property unlawfully.,No punishment.
+24,Dishonestly,Doing an act with dishonest intent.,Punishable depending on crime.
+25,Fraudulently,Doing an act with fraudulent intent.,Punishable depending on crime.
+26,Reason to believe,Having sufficient reason to believe something.,No punishment.
+27,Property in possession of others,Property possession rights.,No punishment.
+28,Counterfeit,Making a fraudulent imitation.,Punishable under forgery laws.
+29,Document,Definition of document.,No punishment.
+30,Valuable Security,Definition of valuable security.,No punishment.
+31,A will,Definition of a will.,No punishment.
+32,Words referring to acts,Interpretation of acts.,No punishment.
+33,Act Omission,Definition of act and omission.,No punishment.
+34,Acts done by several persons in furtherance of common intention,Liability for collective actions.,Punishable as the main offense.
+35,Act done with criminal knowledge,Intent and knowledge in crime.,Punishable depending on crime.
+36,Effect caused partly by act and partly by omission,Combined effect of act and omission.,Punishable as per act.
+37,Co-operation in crime,Cooperating in an offense.,Punishable as per main offense.
+38,Persons concerned in criminal act,Participation in crime.,Punishable as per main offense.
+39,Voluntarily,Definition of voluntary acts.,No punishment.
+40,Offense,Definition of offense.,No punishment.
+41,Special law,Definition of special law.,No punishment.
+42,Local law,Definition of local law.,No punishment.
+43,Illegal,Definition of illegal acts.,Punishable depending on crime.
+44,Injury,Definition of injury.,No punishment.
+45,Life,Definition of life.,No punishment.
+46,Death,Definition of death.,No punishment.
+47,Animal,Definition of animal.,No punishment.
+48,Vessel,Definition of vessel.,No punishment.
+49,Year; Month,Definition of year and month.,No punishment.
+50,Section,Definition of section.,No punishment.
+51,Oath,Definition of oath.,No punishment.
+52,Good faith,Acts done in good faith.,No punishment.
+53,Punishments,Types of punishments under IPC.,No punishment.
+54,Commutation of sentence,Reduction of punishment.,No punishment.
+55,Commutation of life imprisonment,Reduction of life imprisonment.,No punishment.
+56,Omitted,Section removed.,No punishment.
+57,Fractions of punishment,Interpretation of life imprisonment.,No punishment.
+58,Omitted,Section removed.,No punishment.
+59,Omitted,Section removed.,No punishment.
+60,Sentence may be in certain cases,Power to impose alternative sentences.,No punishment.
+61,Omitted,Section removed.,No punishment.
+62,Omitted,Section removed.,No punishment.
+63,Amount of fine,Determination of fine amount.,As per offense.
+64,Imprisonment for non-payment of fine,Punishment for defaulting fine payment.,Imprisonment as per law.
+65,Limit to imprisonment for fine,Maximum imprisonment for default.,Up to one-fourth of maximum sentence.
+66,Description of imprisonment for non-payment of fine,Nature of imprisonment.,Rigorous or simple imprisonment.
+67,Imprisonment for non-payment when offense punishable with fine only,For offenses with fine only.,Up to six months.
+68,Termination of imprisonment on payment of fine,Release upon fine payment.,No punishment after payment.
+69,Termination of imprisonment on part payment,Reduction in imprisonment on part payment.,Punishment reduced accordingly.
+70,Fine to be recoverable within six years,Recovery period for fines.,No punishment.
+71,Limit to punishment for offenses made up of several offenses,Punishment limitations.,Punishable for highest offense.
+72,Punishment of offense committed with different intention,Punishment based on intent.,As per law.
+73,Solitary confinement,Definition and limits.,Up to one month at a time.
+74,Limit of solitary confinement,Maximum duration allowed.,Not exceeding three months.
+75,Enhanced punishment for repeat offenders,Harsher penalties for repeat criminals.,Extended imprisonment.
+76,Act done by person bound by law,No offense if done under legal duty.,No punishment.
+77,Act done by judge,Protection for judges acting in official capacity.,No punishment.
+78,Act done under judgment or order,Protection for acts under court orders.,No punishment.
+79,Act done by mistake of fact,No offense if act done by mistake of fact.,No punishment.
+80,Accident in doing lawful act,Protection for accidental acts.,No punishment.
+81,Act likely to cause harm, but done without criminal intent; No offense if act was necessary.,No punishment.
+82,Act of child under seven years of age,Children below seven not liable.,No punishment.
+83,Act of child above seven and under twelve,Limited liability for children 7-12.,No punishment if immature understanding.
+84,Act of a person of unsound mind,Defense for insanity.,No punishment.
+85,Act done under intoxication,No offense if intoxicated involuntarily.,No punishment.
+86,Offense requiring intent committed by intoxicated person,Intoxication not a defense for intent-based crimes.,Punishable as per crime.
+87,Act not intended to cause death; done with consent,No offense if done with consent and no serious harm.,No punishment.
+88,Act done in good faith for benefit,No offense if act is in good faith.,No punishment.
+89,Act done for benefit of child or insane person,Protection for acts done for their benefit.,No punishment.
+90,Consent given under fear or misunderstanding,Invalid consent due to coercion or misbelief.,Punishable as per crime.
+91,Exclusion of acts that are offenses independently,Certain acts remain offenses despite consent.,Punishable as per law.
+92,Act done in good faith without consent,Protection for urgent medical acts.,No punishment.
+93,Communication in good faith,Protection for truthful communication.,No punishment.
+94,Act done under compulsion,No offense if done under threat of death.,No punishment.
+95,Trivial acts not punishable,Minor offenses not punishable.,No punishment.
+96,Right of private defense,Legal self-defense.,No punishment.
+97,Subjects of private defense,Self and property defense rights.,No punishment.
+98,Right of private defense against insane person,Defense against legally irresponsible attackers.,No punishment.
+99,Acts against right of private defense,Limits of private defense.,Punishable if exceeded.
+100,When the right of private defense extends to causing death,Circumstances allowing self-defense killings.,No punishment if justified.
+101,When the right of private defense extends to causing harm,Self-defense causing harm but not death.,No punishment if justified.
+102,Commencement and continuation of the right of private defense,When self-defense begins and ends.,No punishment.
+103,Right of private defense of property,Protection of property rights.,No punishment if justified.
+104,When the right of private defense extends to causing harm to property,Limitations on property defense.,Punishable if exceeded.
+105,Commencement and continuation of the right of private defense of property,When defense of property starts and ends.,No punishment.
+106,Right of private defense against deadly assault,Defense against life-threatening attacks.,No punishment if justified.
+107,Abetment of a thing,Definition of abetment.,Punishable as per abetted crime.
+108,Abettor,Definition of an abettor.,Punishable as per crime abetted.
+109,Punishment of abetment,Liability of abettor.,Same as the main offense.
+110,Punishment of abetment when act done with different intent,Abetment with different intent.,Punishable accordingly.
+111,Liability of abettor when different act is committed,Abettor liable if a different crime occurs.,Punishable as per crime committed.
+112,Abettor when liability is enhanced,Stronger punishment if abetted crime is serious.,Punishable with enhanced punishment.
+113,Liability of abettor when effect is different from intended,If the crime results in unintended harm.,Punishable as per actual harm caused.
+114,Abettor present when offense is committed,Abettor's liability when present at crime scene.,Same as the main offense.
+115,Abetment of an offense punishable with death or life imprisonment,Serious abetment leading to grave crime.,Up to 7 years imprisonment or fine.
+116,Abetment of offense punishable with imprisonment,Abetting an imprisonable offense.,Punishable with half the imprisonment term.
+117,Abetting commission of offense by the public,Encouraging public to commit crime.,Up to 3 years imprisonment or fine or both.
+118,Concealing design to commit offense punishable with death or life imprisonment,Hiding knowledge of serious crime.,Up to 10 years imprisonment and fine.
+119,Public servant concealing design to commit offense,Public servant failing to act on crime.,Up to 10 years imprisonment and fine.
+120,Concealing design to commit offense punishable with imprisonment,Hiding knowledge of an offense.,Up to one-fourth of the longest imprisonment term.
+120A,Definition of criminal conspiracy,Agreement between persons to commit a crime.,No punishment.
+120B,Punishment for criminal conspiracy,Punishment for conspiracy.,Same as the main offense or up to 6 months imprisonment.
+121,Waging war against the Government of India,Committing war against the nation.,Death or life imprisonment and fine.
+122,Collecting arms with intent to wage war,Gathering arms against India.,Life imprisonment or up to 10 years and fine.
+123,Concealing intention to wage war,Hiding knowledge of war plans.,Up to 10 years imprisonment and fine.
+124,Assaulting President; Governor; etc.,Assaulting President; Governor, etc.Up to 7 years imprisonment and fine.
+125,Waging war against a friendly power,War against a foreign ally.,Life imprisonment or fine.
+126,Committing depredation on a territory of a friendly power,Attacking territories of friendly nations.,Up to 7 years imprisonment and fine.
+127,Receiving property from enemy,Possessing property from hostile forces.,Up to 7 years imprisonment and fine.
+128,Public servant aiding prisoner escape,Allowing an enemy prisoner to escape.,Life imprisonment or up to 10 years and fine.
+129,Public servant negligently allowing escape,Negligence in prisoner handling.,Up to 3 years imprisonment and fine.
+130,Aiding escape of prisoner of war,Helping war prisoners escape.,Life imprisonment or up to 10 years and fine.
+131,Abetting mutiny in armed forces,Encouraging revolt in the military.,Death or life imprisonment.
+132,Abetting mutiny if mutiny is committed,If abetted mutiny succeeds.,Death or life imprisonment.
+133,Abetment of assault by a soldier on superior officer,Encouraging attack on senior military officers.,Up to 10 years imprisonment and fine.
+134,Abetment of desertion from armed forces,Encouraging soldiers to abandon duty.,Up to 7 years imprisonment and fine.
+135,Abetment of an act prejudicial to military discipline,Interfering in military order.,Up to 6 months imprisonment or fine.
+136,Harboring a deserter,Providing shelter to military deserters.,Up to 2 years imprisonment and fine.
+137,Deserter found in possession of arms,Possessing weapons after desertion.,Up to 2 years imprisonment or fine.
+138,Abetment of an act prejudicial to military discipline,Encouraging indiscipline in armed forces.,Up to 6 months imprisonment or fine.
+139,Persons subject to military law,Applicability of military laws.,No punishment.
+140,Wearing unauthorized military uniforms,Impersonating military personnel.,Up to 3 months imprisonment or fine.
+141,Unlawful assembly,Group assembled to commit an illegal act.,Up to 6 months imprisonment or fine.
+142,Being a member of an unlawful assembly,Participating in an illegal gathering.,Up to 6 months imprisonment or fine.
+143,Punishment for unlawful assembly,Punishment for being part of unlawful assembly.,Up to 6 months imprisonment or fine.
+144,Joining an unlawful assembly with deadly weapons,Armed unlawful gathering.,Up to 2 years imprisonment or fine.
+145,Continuing in an unlawful assembly after order to disperse,Failure to disperse upon orders.,Up to 2 years imprisonment or fine.
+146,Rioting,Engaging in violent unlawful assembly.,Up to 2 years imprisonment or fine.
+147,Punishment for rioting,Penalty for participating in riots.,Up to 2 years imprisonment or fine.
+148,Rioting with a deadly weapon,Using deadly weapons in a riot.,Up to 3 years imprisonment or fine.
+149,Every member of unlawful assembly guilty of offense committed,All members liable for group crimes.,Punishable as per crime committed.
+150,Hiring persons to join unlawful assembly,Recruiting for unlawful activities.,Punishable as per assembly's crime.
+150,Hiring for unlawful assembly,Hiring; engaging,Punishable as per assembly's crime.
+151,Knowingly joining unlawful assembly,Joining or continuing in unlawful assembly knowing it has been commanded to disperse.,Up to 6 months imprisonment
+152,Assaulting public servant,Assaulting or obstructing public servant suppressing riot or unlawful assembly.,Up to 3 years imprisonment
+153,Provocation with intent to cause riot,Wantonly giving provocation with intent to cause riot—if rioting be committed; if not committed.,Up to 1 year imprisonment
+154,Owner of land on which unlawful assembly is held,Owner or occupier of land on which an unlawful assembly is held.,Up to 6 months imprisonment
+160,Punishment for committing affray,Punishment for committing affray.,Up to 1 month imprisonment
+166,Public servant disobeying law,Public servant disobeying law, with intent to cause injury to any person or Up to 2 years imprisonment
+167,Public servant framing incorrect document,Public servant framing an incorrect document with intent to cause injury.,Up to 3 years imprisonment
+168,Public servant unlawfully engaging in trade,Public servant unlawfully engaging in trade.,Up to 1 year imprisonment
+169,Public servant unlawfully buying property,Public servant unlawfully buying or bidding for property.,Up to 2 years imprisonment
+170,Personating a public servant,Pretending to hold a public servant's office and acting as such.,Up to 2 years imprisonment
+171,Wearing garb or carrying token used by public servant,Wearing any garb or carrying any token resembling that used by a public servant; with fraudulent intent.,Up to 3 months imprisonment
+172,Absconding to avoid summons,Absconding to avoid receiving summons or other proceeding from a public servant.,Up to 1 month imprisonment
+173,Preventing service of summons,Preventing the service of a summons or other legal process.,Up to 1 month imprisonment
+174,Non-attendance in obedience to summons,Non-attendance in obedience to an order from a public servant.,Up to 1 month imprisonment
+175,Omission to produce a document,Omission to produce a document to a public servant by a person legally bound to do so.,Up to 1 month imprisonment
+176,Omission to give notice or information to public servant,Failure to give notice or information required by a public servant.,Up to 1 month imprisonment
+177,Furnishing false information,Furnishing false information to a public servant.,Up to 6 months imprisonment
+178,Refusing oath when duly required,Refusing to take an oath when legally required.,Up to 6 months imprisonment
+179,Refusing to answer a public servant,Refusing to answer a public servant authorized to question.,Up to 6 months imprisonment
+180,Refusing to sign a statement,Refusing to sign a statement made to a public servant.,Up to 6 months imprisonment
+181,False statement on oath,Making a false statement on oath or affirmation.,Up to 3 years imprisonment
+182,False information with intent to cause public servant to use his lawful power wrongly,Giving false information with intent to mislead a public servant.,Up to 6 months imprisonment
+191,Giving false evidence,Knowingly giving false evidence in judicial proceedings.,Up to 7 years imprisonment
+192,Fabricating false evidence,Fabricating false evidence for use in judicial proceedings.,Up to 7 years imprisonment
+193,Punishment for false evidence,Punishment for giving or fabricating false evidence.,Up to 7 years imprisonment
+197,Issuing or signing false certificates,Issuing or signing a false certificate.,Up to 3 years imprisonment
+201,Causing disappearance of evidence,Causing the disappearance of evidence of an offence.,Punishment varies depending on the severity of the offence concealed.
+211,False charge of offence,Falsely charging someone with committing an offence.,Up to 7 years imprisonment
+225,Resistance to lawful apprehension,Resisting or obstructing lawful apprehension.,Punishment varies depending on the nature of the obstruction.
+232,Counterfeiting Indian coin,Counterfeiting Indian currency or coin.,Up to life imprisonment
+238,Import or export of counterfeit coin,Importing or exporting counterfeit Indian currency.,Up to 10 years imprisonment
+246,Fraudulent alteration of weight of coins,Fraudulently altering the weight of a coin.,Up to 3 years imprisonment
+249,Delivery of counterfeit coin,Delivery of counterfeit coin knowingly.,Up to 2 years imprisonment
+250,Possession of counterfeit coin,Possessing counterfeit coin with knowledge.,Up to 2 years imprisonment
+250,Possession of counterfeit coin,Possessing counterfeit coin with knowledge.,Up to 2 years imprisonment
+251,Delivery of altered coin,Delivery of altered Indian coin as genuine.,Up to 3 years imprisonment
+252,Possession of altered coin,Possession of altered Indian coin with knowledge.,Up to 3 years imprisonment
+263,Erasure of mark on stamped document,Erasing or altering a mark denoting a stamped document.,Up to 3 years imprisonment
+272,Adulteration of food or drink,Adulterating food or drink intended for sale.,Up to 6 months imprisonment
+273,Sale of noxious food or drink,Selling food or drink unfit for consumption.,Up to 6 months imprisonment
+274,Adulteration of drugs,Adulteration of drugs rendering them harmful.,Up to 6 months imprisonment
+275,Sale of adulterated drugs,Selling adulterated drugs knowing them to be harmful.,Up to 6 months imprisonment
+295,Injuring or defiling a place of worship,Destroying or damaging or defiling a place of worship.,Up to 2 years imprisonment
+298,Uttering words to wound religious feelings,Uttering words with intent to wound religious feelings.,Up to 1 year imprisonment
+302,Punishment for murder,Committing murder.,Death penalty or life imprisonment and fine.
+304,Culpable homicide not amounting to murder,Causing death without intention amounting to murder.,Up to life imprisonment
+307,Attempt to murder,Attempting to commit murder.,Up to life imprisonment
+312,Causing miscarriage,Causing a woman to miscarry with consent.,Up to 3 years imprisonment
+320,Definition of grievous hurt,Acts causing grievous hurt.,Varies based on intent and consequence.
+324,Voluntarily causing hurt by dangerous weapons,Causing hurt using dangerous weapons or means.,Up to 3 years imprisonment
+326,Voluntarily causing grievous hurt by dangerous weapons,Causing grievous hurt using dangerous weapons.,Up to life imprisonment
+332,Voluntarily causing hurt to deter public servant,Hurting a public servant to deter duty.,Up to 3 years imprisonment
+354,Assault on a woman to outrage her modesty,Assault or use of force on a woman intending to outrage her modesty.,Up to 5 years imprisonment
+363,Punishment for kidnapping,Punishment for kidnapping.,Up to 7 years imprisonment
+376,Punishment for rape,Punishment for rape.,Minimum 10 years to life imprisonment
+378,Definition of theft,Taking movable property dishonestly.,Up to 3 years imprisonment
+383,Extortion,Putting a person in fear to extort property.,Up to 3 years imprisonment
+390,Definition of robbery,Committing theft or extortion with immediate violence.,Up to 10 years imprisonment
+392,Punishment for robbery,Punishment for committing robbery.,Up to 10 years imprisonment
+395,Punishment for dacoity,Punishment for committing dacoity.,Up to life imprisonment
+400,Belonging to a gang of dacoits,Being a member of a gang engaged in dacoity.,Up to life imprisonment
+401,Punishment for belonging to gang of thieves,Being a member of a gang engaged in theft.,Up to 7 years imprisonment
+402,Assembling for purpose of committing dacoity,Assembling with the intent to commit dacoity.,Up to 7 years imprisonment
+411,Dishonestly receiving stolen property,Receiving or retaining stolen property knowingly.,Up to 3 years imprisonment
+414,Assisting in concealment of stolen property,Helping in concealing or disposing of stolen property.,Up to 3 years imprisonment
+420,Cheating and dishonestly inducing delivery of property,Cheating and dishonestly inducing a person to deliver property.,Up to 7 years imprisonment
+425,Definition of mischief,Causing wrongful loss or damage to property.,Varies based on severity.
+435,Mischief by fire or explosive substance,Causing damage by fire or explosive substances.,Up to 7 years imprisonment
+447,Punishment for criminal trespass,Entering property unlawfully with criminal intent.,Up to 3 months imprisonment
+452,House-trespass after preparation for hurt or assault or wrongful restraint,House-trespass after preparation for hurt assault o wrongful restraint,Up to 7 years imprisonment and fine.
+463,Forgery,Making false documents or altering them fraudulently.,Up to 2 years imprisonment
+468,Forgery for cheating,Forgery committed with the purpose of cheating.,Up to 7 years imprisonment
+471,Using as genuine a forged document,Using a forged document as if it were genuine.,Punishment as applicable for forgery.
+477,Fraudulent cancellation or destruction of accounts,Destroying or falsifying accounts dishonestly.,Up to 7 years imprisonment
+482,Punishment for counterfeiting a property mark,Counterfeiting property marks with fraudulent intent.,Up to 2 years imprisonment
+489A,Counterfeiting currency-notes or bank-notes,Producing counterfeit currency notes.,Up to life imprisonment
+489C,Possession of forged or counterfeit currency-notes,Possessing counterfeit currency notes with knowledge.,Up to 7 years imprisonment
+493,Cohabitation caused by deceit,Causing a woman to believe she is legally married and cohabiting.,Up to 10 years imprisonment
+496,Marriage ceremony fraudulently gone through,Performing fraudulent marriage ceremonies.,Up to 7 years imprisonment
+499,Defamation,Making false statements that harm a person's reputation.,Up to 2 years imprisonment
+503,Criminal intimidation or Threatening injury to a person, property or reputation.,Up to 2 years imprisonment
+506,Punishment for criminal intimidation,Punishment for criminal intimidation.,Up to 7 years imprisonment
+509,Word; gesture or act intended to insult modesty of a woman,Using any word; gesture; or act intended to insult the modesty of a woman.,Up to 3 years imprisonment
+511,Attempting to commit offenses punishable with life or other imprisonments,Attempting an offense punishable with imprisonment.,Half the punishment of the intended offense.
+512,Punishment for certain offenses committed beyond India,Punishment for offenses committed outside India but applicable under IPC.,As per respective section.
+513,Impersonation for cheating,Personating another with intent to cheat.,Up to 3 years imprisonment
+514,Offering false information to prevent summons,Giving false information to prevent legal proceedings.,Up to 2 years imprisonment
+515,Aiding escape of prisoner,Helping a prisoner to escape from lawful custody.,Up to 7 years imprisonment
+516,Harboring offenders,Knowingly harboring a person who has committed an offense.,Punishment as applicable to the offender.
+517,Public servant disobeying law,Public servant disobeying the law with intent to cause harm.,Up to 1 year imprisonment
+518,Fabricating false evidence,Creating false evidence to mislead judicial proceedings.,Up to 7 years imprisonment
+519,Punishment for perjury,Giving false evidence in a judicial proceeding.,Up to 7 years imprisonment
+520,Falsifying official records,Tampering with official records to cause harm.,Up to 3 years imprisonment
+521,Fraudulent execution of deeds,Fraudulently executing or altering deeds.,Up to 7 years imprisonment
+522,Public mischief,Spreading false information to create public disorder.,Up to 3 years imprisonment
+523,Defiling public property,Destroying or defiling public property with intent to harm.,Up to 2 years imprisonment
+524,Tampering with court documents,Altering or destroying court records unlawfully.,Up to 7 years imprisonment
+525,Endangering public safety,Acts that endanger public safety or security.,Up to 5 years imprisonment
